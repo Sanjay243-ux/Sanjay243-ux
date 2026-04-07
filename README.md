@@ -8,12 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjay243-ux&theme=onedark&margin-w=10&margin-h=10" alt="sanjay243-ux" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://twitter.com/jayson" target="blank">
     <img src="https://img.shields.io/twitter/follow/jayson?logo=twitter&style=for-the-badge&color=1DA1F2" alt="jayson" />
   </a>
