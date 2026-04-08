@@ -38,7 +38,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,postgres,firebase,docker,git,github,postman,vscode" />
 </p>
----
 
 ## 🛠️ Tools
 
