@@ -89,8 +89,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay243-ux&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
 ## 💡 Quote
 
 > "Build. Learn. Improve. Repeat."
