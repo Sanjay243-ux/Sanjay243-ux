@@ -91,18 +91,6 @@
 
 ---
 
----
-
-## 📈 Language Usage Pie Chart
-
-```mermaid
-pie title Programming Language Usage
-    "JavaScript" : 40
-    "TypeScript" : 20
-    "HTML" : 15
-    "CSS" : 15
-    "Python" : 10
-
 ## 💡 Quote
 
 > "Build. Learn. Improve. Repeat."
