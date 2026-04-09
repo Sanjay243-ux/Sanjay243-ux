@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Working on **Modern Hospital System**
+- 🔭 Working on **Modern Srilankan Hospital System**
 - 🌱 Learning **AI & Machine Learning**
 - 👨‍💻 Portfolio: [mrstudio.net](http://mrstudio.net)
 - 💬 Ask me about **React, Next.js, Node.js**
