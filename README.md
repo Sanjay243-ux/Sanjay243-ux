@@ -57,14 +57,3 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
-
-## 📈 Tech Stack Overview
-
-```mermaid
-pie title Tech Stack Focus
-    "JavaScript" : 30
-    "React" : 20
-    "Node.js" : 20
-    "TypeScript" : 15
-    "Databases" : 10
-    "Tools" : 5
