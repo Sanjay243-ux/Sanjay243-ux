@@ -22,7 +22,6 @@
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=sanjay243-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&border_radius=12" />
 
 ```typescript
-// whoami.ts
 
 const Shajai = {
   role:        "Full Stack Developer",
