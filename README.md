@@ -106,25 +106,6 @@ export default Shajai;
 
 ---
 
-<!-- CURRENT PROJECT HIGHLIGHT -->
-<h2 align="center">🔭 Currently Building</h2>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║           🏥  MODERN SRI LANKAN HOSPITAL SYSTEM              ║
-╠══════════════════════════════════════════════════════════════╣
-║  Stack   →  React · Node.js · MySQL · Docker                 ║
-║  Status  →  🟢 In Active Development                         ║
-║  Goal    →  Digitize healthcare for Sri Lanka                 ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 <!-- CONNECT -->
 <h2 align="center">🌐 Connect With Me</h2>
 
