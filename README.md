@@ -3,11 +3,6 @@
 <!-- ANIMATED BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shajai&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=55&descSize=20"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22)+👨‍💻;Full+Stack+Developer+%7C+React+%7C+Next.js;Building+Scalable+%26+Modern+Web+Apps;Currently+building+a+Hospital+System+🏥;Learning+AI+%26+Machine+Learning+🤖;Always+shipping.+Always+learning.+⚡" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- STATUS BADGES -->
