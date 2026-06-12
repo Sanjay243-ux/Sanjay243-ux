@@ -101,7 +101,13 @@ export default Shajai;
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=sanjay243-ux&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjay243-ux&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjay243-ux&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 </div>
 
 ---
